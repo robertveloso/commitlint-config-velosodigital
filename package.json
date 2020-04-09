@@ -1,7 +1,7 @@
 ﻿{
-  "name": "commitlint-config-rocketseat",
+  "name": "commitlint-config-velosodigital",
   "version": "0.0.1",
-  "description": "Shareable commitlint config used by Rocketseat",
+  "description": "Shareable commitlint config used by Veloso Digital",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rocketseat/commitlint-config-rocketseat.git"
+    "url": "https://github.com/robertveloso/commitlint-config-velosodigital.git"
   },
   "keywords": [
     "commitlint",
     "config",
-    "rocketseat",
+    "robertveloso",
     "git"
   ]
 }
